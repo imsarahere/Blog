@@ -104,7 +104,6 @@ author:
   location         : "NY, USA"
   email            : "mailto:jc12818@nyu.edu"  
   links: # 사이트 링크
-
      - label: "GitHub"
        icon: "fab fa-fw fa-github"
        url: "https://github.com/Jiyun2025"
