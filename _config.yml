@@ -15,7 +15,7 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "mint" # "default" "air", "aqua", ...
 
 # Site Settings
 locale: "en-US" #"en-US"
@@ -100,9 +100,9 @@ analytics:
 author:
   name: "Jiyun Cho" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-     bio              : "Specializing in Deep Learning & Machine Learning."
-   location         : "NY, USA"
-   email            : "jc12818@nyu.edu"
+  bio              : "Specializing in Deep Learning & Machine Learning."
+  location         : "NY, USA"
+  email            : "jc12818@nyu.edu"
 
   links: # 사이트 링크
 
