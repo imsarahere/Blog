@@ -68,7 +68,7 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification:
+google_site_verification: "googleefe475acde1030eb"
 bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
@@ -92,37 +92,26 @@ social:
 analytics:
   provider: "google-gtag"
   # false (default), "google", "google-universal", "google-gtag", "custom"
-  google:
-    tracking_id: "your tracking id here"
+  google: 
+    tracking_id: "GTM-KNBSBFQX"
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name: "your name here" # 블로그 닉네임
+  name: "Jiyun Cho" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-  #   bio              : "hi all!"
-  # location         : "Seoul, Korea"
-  # email            : "youremailhere@xxxxxx.com"
+     bio              : "Specializing in Deep Learning & Machine Learning."
+   location         : "NY, USA"
+   email            : "jc12818@nyu.edu"
 
   links: # 사이트 링크
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       # url: "mailto:your.name@email.com"
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       # url: "https://your-website.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       # url: "https://twitter.com/"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebook-square"
-#       # url: "https://facebook.com/"
+
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://www.instagram.com/"
+#       url: "https://github.com/imsarahere"
+#     - label: "LinkedIn"
+#       icon: "fa-brands fa-linkedin"
+#       url: "https://www.linkedin.com/in/jiyun-c-b69968253/
 
 # Site Footer
 footer:
