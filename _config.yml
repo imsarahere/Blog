@@ -15,18 +15,18 @@
 
 # plum skin 활용하여 색상 설정함. 변경하려면 _sass/minimal-mistakes/skins/_plum.scss 에서 변경하거나
 # 해당 디렉토리 내의 다른 테마로 변경 가능 (minimal-mistakes 기본 제공 테마)
-minimal_mistakes_skin: "mint" # "default" "air", "aqua", ...
+minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 
 # Site Settings
-locale: "en-US" #"en-US"
-title: "Jiyun's Data Space🔮" # 상단 헤더에 보이는 블로그 명
+locale: "ko-KR" #"en-US"
+title: "Blog Name Here" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
-subtitle: "Pursuing a Master’s in Urban Science & Data Science @ NYU" # site tagline that appears below site title in masthead
-name: "Jiyun | Sara" # 블로그 닉네임 설정
+subtitle: # site tagline that appears below site title in masthead
+name: "your name here" # 블로그 닉네임 설정
 description: "this is my blog!" # 블로그 설명
-url: "https://imsarahere.github.io" # 블로그 URL
-baseurl: ""# the subpath of your site, e.g. "/blog"
-repository: "imsarahere/imsarahere.github.io" # GitHub Repo 이름
+url: "https://github-account.github.io" # 블로그 URL
+baseurl: # the subpath of your site, e.g. "/blog"
+repository: "github-account/github-account.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
@@ -68,7 +68,7 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification: 
+google_site_verification:
 bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
@@ -92,26 +92,37 @@ social:
 analytics:
   provider: "google-gtag"
   # false (default), "google", "google-universal", "google-gtag", "custom"
-  google: 
-    tracking_id: 
+  google:
+    tracking_id: "your tracking id here"
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
-  name: "Jiyun Cho" # 블로그 닉네임
+  name: "your name here" # 블로그 닉네임
   avatar: "/assets/images/meee.png" # 블로그 프로필 사진
-  bio              : "Specializing in Deep Learning & Machine Learning."
-  location         : "NY, USA"
-  email            : "jc12818@nyu.edu"
+  #   bio              : "hi all!"
+  # location         : "Seoul, Korea"
+  # email            : "youremailhere@xxxxxx.com"
 
   links: # 사이트 링크
-
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       # url: "mailto:your.name@email.com"
+#     - label: "Website"
+#       icon: "fas fa-fw fa-link"
+#       # url: "https://your-website.com"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       # url: "https://twitter.com/"
+#     - label: "Facebook"
+#       icon: "fab fa-fw fa-facebook-square"
+#       # url: "https://facebook.com/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/imsarahere"
-#     - label: "LinkedIn"
-#       icon: "fa-brands fa-linkedin"
-#       url: "https://www.linkedin.com/in/jiyun-c-b69968253/
+#       url: "https://github.com/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://www.instagram.com/"
 
 # Site Footer
 footer:
